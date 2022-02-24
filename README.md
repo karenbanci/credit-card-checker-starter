@@ -1,5 +1,4 @@
 # credit-card-checker-starter
-# Challenge-Project-Credit-Card-Checker
 Codecademy
 
 Project Goals Context: 
